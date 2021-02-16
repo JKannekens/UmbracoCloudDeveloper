@@ -1,0 +1,1 @@
+git clone https://dev-cloud-justin-kannekens-truelime-nl.scm.s1.umbraco.io/b5f5c87f-1728-4c9b-8b9d-d602d6def7b3.git MyAPp.Web
